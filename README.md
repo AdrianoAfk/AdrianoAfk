@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do AdrianoAfk 😁
 
- <div>
+<div>
    <a href="https://github.com/AdrianoAfk">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoAfk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianoafk&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoAfk&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
     
